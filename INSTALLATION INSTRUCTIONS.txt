@@ -1,0 +1,6 @@
+1. Drop the file "Able01.png" in the folder "Aircraft/SR22T/Models"
+2. Drop the file "Able01.xml" in the folder "Aircraft/SR22T/Models/Liveries"
+3. Enjoy!
+
+#If you want to try a cool autgyro, follow this link and download it. It's free.. and always will be.
+https://github.com/aquinonero1/Hornet (currently under active development)
